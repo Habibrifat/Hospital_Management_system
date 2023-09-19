@@ -1,0 +1,11 @@
+.authentication-bg-pattern{
+
+    background-image: url(../images/bg-pattern-admin.jpg) !important;
+    background-color: bisque !important;
+    background-position: left bottom !important;
+    
+}
+
+.authentication-bg{
+
+}
